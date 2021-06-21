@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #85b4ff;
+}
+
+.header {
+    font-size: 100px;
+    margin-bottom: 20px;
+    background-color: #49d3f5;
+}
